@@ -1,0 +1,122 @@
+body {
+    background-image: linear-gradient(to right, #92fe9d 0%, #00c9ff 100%);
+}
+
+
+#heading {
+    background:#e9140c;
+    font-family:"Verdana", serif;
+    width: 100%;
+    text-align: center;
+    border-style: solid;
+  border-width: 5px;
+  border-radius: 12px;
+  background-color: #08AEEA;
+background-image: linear-gradient(0deg, #08AEEA 0%, #2AF598 100%);
+
+  
+} 
+
+h1 {
+    font-size: 280%;
+  padding: 10px; 
+  height: 60px;
+  margin-top: 20px;
+  color: white;
+  text-shadow: 1px 1px 2px rgb(240, 31, 31), 0 0 25px rgb(54, 54, 228), 0 0 5px rgb(31, 24, 129);
+
+}
+
+#quiz {
+    border: 1px solid black;
+    font-family:"Arial", serif;
+    height:350px;
+    width: 100%;
+    text-align: center;
+    margin-top: 5%;
+    font-size: 25px;
+    border-style: solid;
+}
+#question {
+    font-weight: bold;
+    text-align: center;
+    margin-top: 7%;
+    margin-bottom: 4%;
+    font-size: 25px;
+}
+#answer {
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 5%;
+    display:block;
+}
+input[type=radio]{
+    margin-right: 2%;
+    margin-left: 2%;
+    -webkit-transform: scale(1.5); 
+    transform: scale(1.5);
+}
+
+
+li{
+    position: relative;
+    float:right;
+    margin-top: 3em;
+    margin-right: 3em;
+}
+
+.next1 {
+    display: inline-block;
+    border-radius: 4px;
+    background-color: #f4511e;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 28px;
+    padding: 20px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 12px;
+    margin-left: 14%;
+ 
+
+  }
+ 
+ 
+  .next2 {
+    display: inline-block;
+    border-radius: 4px;
+    background-color: #52ce21;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 28px;
+    padding: 20px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 10px;
+   margin-left: 15%;
+ 
+
+  }
+  .next3 {
+    display: inline-block;
+    border-radius: 4px;
+    background-color: #f4511e;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 28px;
+    padding: 20px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 12px;
+    margin-left: 15%;
+ 
+
+  }
+
+ 

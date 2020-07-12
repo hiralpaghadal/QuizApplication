@@ -1,0 +1,31 @@
+   var questions = [
+    
+    {
+        "question": "Which company first developed the Java Programming?",
+        "choices": ["Microsoft", "Google", "Sun Microsystems", "IBM"],
+        "correctAnswer": 2
+    },
+
+    {
+        "question": "What does the Session object hold?",
+        "choices": ["First level Cache", "Second level Cache", "Both A & B", "None of the above"],
+        "correctAnswer": 0
+    },
+
+    {
+        "question": " An interface with no fields or methods is known as a ________.",
+        "choices": ["Runnable Interface", "Marker Interface", "Abstract Interface", "CharSequence Interface"],
+        "correctAnswer": 1
+    },
+    
+    {
+        "question": " Which is a mechanism where one object acquires all the properties and behaviors of the parent object?",
+        "choices": ["Inheritance", "Encapsulation", "Polymorphism", "None of the above"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The life cycle of the thread is controlled by ?",
+        "choices": ["JVM", "JDK", "JRE", "None of the above"],
+        "correctAnswer": 0
+    }
+    ];
